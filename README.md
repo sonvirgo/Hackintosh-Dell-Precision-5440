@@ -1,4 +1,4 @@
-# Hackintosh-Dell-Precision-5440
+# Hackintosh-Dell-Precision-5540
 Bug sur
 ![image](https://github.com/user-attachments/assets/06d642c1-6537-4a37-9cd7-3051a862d6a2)
 ![image](https://github.com/user-attachments/assets/8faf2d8e-1b1d-4e23-8813-d5f9ee5f6ae9)
